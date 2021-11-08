@@ -1,0 +1,10 @@
+<p>textBox1: #{textBox1}
+<p>textBox1_2: #{textBox1_2}
+<br>
+<p>checkBox1: #{checkBox1}
+<p>checkBox1_2: #{checkBox1_2}
+<br>
+<p>radio1: #{radio1}
+<p>radio1_2: #{radio1_2}
+<br>
+<p><a href=@{Page1R}>goto 'page1'
